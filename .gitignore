@@ -1,0 +1,12 @@
+third.txt
+fourth.txt
+
+*.doc
+
+*.js
+
+hello.js
+
+*.xlsx
+
+build
